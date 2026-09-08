@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://designz.vercel.app/sitemap.xml
+Sitemap: https://designz.dwell-rich.com/sitemap.xml
